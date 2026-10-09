@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pauss
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NextJS and React
 - 💞️ I’m looking to collaborate on projects related to my interests.
 - 📫 My e-mail address is tpr.paus@gmail.com
 
